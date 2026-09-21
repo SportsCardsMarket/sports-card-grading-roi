@@ -13,3 +13,5 @@ This is a modeling calculator, not a verified market-price feed. Enter assumptio
 
 ## GitHub Pages
 Intended URL: https://sportscardsmarket.github.io/sports-card-grading-roi/
+
+Deployment verified via GitHub Actions.
